@@ -24,6 +24,8 @@ Bar chart: Top N locations with the highest tests
 Dashboard: Scatter plot & Bar chart
 Dashboard: Tree map & Map
 
+You can also explore the visualizations by visiting my [Tableau Public profile](https://public.tableau.com/app/profile/jesufemi.oresanya). Feel free to follow me to stay updated on the latest visualizations and analyses.
+
 ## How to Use
 To use this repository, follow these steps:
 
